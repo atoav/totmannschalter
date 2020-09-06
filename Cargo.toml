@@ -1,6 +1,6 @@
 [package]
 name = "totmannschalter"
-version = "0.1.1"
+version = "0.1.3"
 authors = ["David Huss <dh@atoav.com>"]
 description = "A service that mails you when urls cannot be reached anymore or return errors"
 edition = "2018"
