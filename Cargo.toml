@@ -10,6 +10,7 @@ homepage = "https://github.com/atoav/totmannschalter"
 repository = "https://github.com/atoav/totmannschalter"
 keywords = ["cli", "webserver", "availability", "service", "mail"]
 categories = ["command-line-utilities", "email"]
+exclude = ["*.sublime-*"]
 
 [package.metadata.deb]
 section = ["Administration Utilities"]
