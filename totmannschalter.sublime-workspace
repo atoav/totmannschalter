@@ -1,0 +1,1009 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mail",
+				"mail_type\t  MailType"
+			],
+			[
+				"eprint",
+				"eprintln!(…)\t  #[macro_export]\nmacro_rules! eprintln"
+			],
+			[
+				"smoothed",
+				"smoothedMouseDelta"
+			],
+			[
+				"head",
+				"headLowerAngleLimit"
+			],
+			[
+				"Serializ",
+				"SerializeField"
+			],
+			[
+				"int",
+				"interactComponent"
+			],
+			[
+				"debug",
+				"Debug.Log(message)"
+			],
+			[
+				"Mathf",
+				"Mathf.Sin(f)"
+			],
+			[
+				"to",
+				"toggleAbout"
+			],
+			[
+				"object",
+				"object_paths"
+			],
+			[
+				"Univ",
+				"UniversalSysEx"
+			],
+			[
+				"Man",
+				"ManufacturerID\t  Enum"
+			],
+			[
+				"Univer",
+				"UniversalSysExError"
+			],
+			[
+				"Manuf",
+				"ManufacturerIDError\t  Enum"
+			],
+			[
+				"Unde",
+				"UndefinedReserved4"
+			],
+			[
+				"Un",
+				"UndefinedReserved"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Cargo.toml",
+			"settings":
+			{
+				"buffer_size": 541,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.rs",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/supervisor.rs",
+			"settings":
+			{
+				"buffer_size": 7497,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "use crate::*;"
+			}
+		},
+		{
+			"file": "src/config.rs",
+			"settings":
+			{
+				"buffer_size": 4449,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/error.rs",
+			"settings":
+			{
+				"buffer_size": 2328,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "use std::error;"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"projec new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"p",
+				"Project Manager"
+			],
+			[
+				"pro",
+				"Project Manager"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"uui",
+				"Generate UUID v4"
+			],
+			[
+				"uuid",
+				"Generate single UUID v4"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"yaml",
+				"Pretty YAML: Reformat (Pretty Print) YAML"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"yam",
+				"Pretty YAML: Reformat (Pretty Print) YAML"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"Preferences",
+				"Preferences: Settings"
+			],
+			[
+				"user ",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"json",
+				"Pretty JSON: Validate"
+			],
+			[
+				"r",
+				"Rename File"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"orig",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"ori",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"layo",
+				"Origami: Save Current Layout"
+			],
+			[
+				"file re",
+				"File: Rename"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"LSP",
+				"Preferences: LSP Settings"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"LSP: Ena",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"us",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"user settings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"setting",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/d0/Coding/work/totmannschalter",
+		"/home/d0/Coding/work/totmannschalter/src"
+	],
+	"file_history":
+	[
+		"/media/d0/STOR/re-render/process_audio.bat",
+		"/media/d0/STOR/re-render/process.bat",
+		"/home/d0/Coding/words/nachnamen.txt",
+		"/home/d0/Coding/words/vornamen.txt",
+		"/mnt/u.atoav.com/antishape.com/user/themes/anti/css/style.css",
+		"/mnt/u.atoav.com/antishape.com/user/themes/anti/blueprints/window.yaml",
+		"/mnt/u.atoav.com/antishape.com/user/themes/anti/js/markdown-p-img.js",
+		"/mnt/u.atoav.com/antishape.com/user/themes/anti/templates/screen.html.twig",
+		"/mnt/u.atoav.com/antishape.com/user/themes/anti/templates/partials/base.html.twig",
+		"/mnt/u.atoav.com/antishape.com/user/themes/quark/blueprints/default.yaml",
+		"/home/d0/Coding/tests/rustmart/src/types.rs",
+		"/home/d0/Coding/tests/rustmart/src/lib.rs",
+		"/home/d0/Coding/tests/rustmart/src/pages/cart.rs",
+		"/home/d0/Coding/tests/rustmart/src/route.rs",
+		"/home/d0/Coding/tests/rustmart/Cargo.toml",
+		"/home/d0/Coding/tests/rustmart/Makefile.toml",
+		"/home/d0/Coding/tests/rustmart/static/index.html",
+		"/home/d0/Coding/tests/rustmart/src/components/navbar.rs",
+		"/home/d0/Coding/tests/rustmart/src/api.rs",
+		"/home/d0/Coding/tests/rustmart/src/components/mod.rs",
+		"/home/d0/Coding/tests/rustmart/src/app.rs",
+		"/home/d0/Coding/tests/rustmart/static/styles.css",
+		"/home/d0/Coding/tests/rustmart/src/components/atc_button.rs",
+		"/home/d0/Coding/tests/rustmart/src/components/cart_line.rs",
+		"/home/d0/Coding/tests/rustmart/src/components/product_card.rs",
+		"/home/d0/Coding/tests/rustmart/src/pages/mod.rs",
+		"/home/d0/Coding/tests/rustmart/src/pages/product_detail.rs",
+		"/home/d0/Coding/tests/rustmart/src/pages/home.rs",
+		"/home/d0/Coding/tests/rustmart/static/products/2.json",
+		"/home/d0/Coding/tests/rustmart/static/products/products.json",
+		"/home/d0/Coding/tests/rustmart/static/products/1.json",
+		"/home/d0/src/midpoint/midpoint-samples/samples/resources/csv/resource-csv-guid.xml",
+		"/home/d0/src/midpoint/testdaten/pers.csv",
+		"/home/d0/src/midpoint/midpoint-samples/samples/resources/csv/resource-csv-username.xml",
+		"/home/d0/src/midpoint/midpoint-samples/samples/evolveum/hr.csv",
+		"/home/d0/src/midpoint/midpoint-samples/samples/org/org-monkey-island-simple.xml",
+		"/home/d0/src/midpoint/midpoint-samples/samples/org/org-top.xml",
+		"/home/d0/src/midpoint/midpoint-samples/samples/roles/role-basic.xml",
+		"/home/d0/src/midpoint/midpoint-samples/samples/resources/csv/role-csvfile-groups-account.xml",
+		"/home/d0/src/midpoint/midpoint-samples/samples/resources/csv/midpoint-groups.csv",
+		"/home/d0/src/midpoint/testdaten/resource-openldap.xml",
+		"/home/d0/src/midpoint/testdaten/resource-personal.xml",
+		"/home/d0/src/midpoint/midpoint-samples/samples/evolveum/resource-hr.xml",
+		"/home/d0/src/midpoint/midpoint-samples/pom.xml",
+		"/home/d0/src/midpoint/midpoint-samples/samples/resources/csv/resource-csv-groups.xml",
+		"/home/d0/src/midpoint/midpoint-samples/samples/resources/gitlab/resource-gitlab-connector.xml",
+		"/mnt/u.atoav.com/antishape.com/user/themes/anti/blueprints.yaml",
+		"/mnt/u.atoav.com/antishape.com/user/themes/anti/anti.yaml",
+		"/media/d0/Work/Modular/_horizon/horizon-docs/python.rst",
+		"/home/d0/Coding/tests/gengen/pyproject.toml",
+		"/home/d0/Coding/tests/gengen/gengen/cli.py",
+		"/home/d0/src/midpoint/midpoint-samples/samples/legacy/resources/csvfile/localhost-csvfile-resource-advanced-sync-2.xml",
+		"/media/d0/STOR/Coding/work/mixpresplit/mixpresplit/cli.py",
+		"/home/d0/src/midpoint/midpoint-samples/samples/evolveum/object-template-user.xml",
+		"/mnt/u.atoav.com/pototschnig.net/user/themes/ru/blueprints/film.yaml",
+		"/mnt/u.atoav.com/antishape.com/user/config/plugins/admin.yaml",
+		"/mnt/u.atoav.com/antishape.com/user/blueprints/admin/pages/new_screen.yaml",
+		"/mnt/u.atoav.com/antishape.com/user/blueprints/admin/pages/new_window.yaml",
+		"/mnt/u.atoav.com/antishape.com/user/themes/anti/blueprints/screen.yaml",
+		"/mnt/u.atoav.com/annaroro.com/user/themes/ruru/blueprints/work_single.yaml",
+		"/mnt/u.atoav.com/antishape.com/user/themes/anti/templates/default.html.twig",
+		"/mnt/u.atoav.com/annaroro.com/user/themes/ruru/blueprints/work_category.yaml",
+		"/mnt/u.atoav.com/annaroro.com/user/blueprints/admin/pages/new_work.yaml",
+		"/mnt/u.atoav.com/pototschnig.net/user/plugins/admin/blueprints.yaml",
+		"/home/d0/Coding/work/spectrumm/spectrumm/__init__.py",
+		"/home/d0/Coding/work/spectrumm/pyproject.toml",
+		"/home/d0/Coding/work/spectrumm/spectrumm/cli.py",
+		"/home/d0/Scripts/hashcolor.py",
+		"/home/d0/src/midpoint-samples/samples/resources/csv/midpoint-guid.csv",
+		"/home/d0/src/midpoint-samples/samples/resources/csv/resource-csv-groups.xml",
+		"/home/d0/src/midpoint-samples/samples/resources/csv/role-csvfile-groups-basic-groups.xml",
+		"/home/d0/src/midpoint-samples/samples/resources/csv/resource-csv-username.xml",
+		"/home/d0/src/midpoint-samples/samples/resources/csv/importonce.xml",
+		"/media/d0/Work/Modular/2.WORK/MAMI/.pre-commit-hooks.yaml",
+		"/media/d0/Work/Modular/2.WORK/MAMI/.pre-commit-config.yaml",
+		"/home/d0/Coding/work/cleanup-gerbers/pyproject.toml",
+		"/home/d0/Coding/work/cleanup-gerbers/cleanup_gerbers/cleanup_gerbers.py",
+		"/home/d0/src/midpoint-samples/samples/resources/csv/resource-csv-guid.xml",
+		"/media/d0/Work/Modular/_horizon/analogueswitches.txt",
+		"/media/d0/Work/Modular/2.WORK/MAMI/.git/hooks/cleanup-gerbers",
+		"/home/d0/Coding/work/cleanup-gerbers/tests/test_cleanup_gerbers.py",
+		"/tmp/u.atoav.com-wnzq36/eurorack-page.css",
+		"/home/d0/Downloads/DG301/DG301ACWE.lib",
+		"/media/d0/Work/Modular/_horizon/atoav-pool/parts/ic/switch/DG301xx.json",
+		"/tmp/rsub-akeqeu/film_single.yaml",
+		"/home/d0/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/d0/src/midpoint-samples/samples/resources/csv/role-csvfile-groups-account.xml",
+		"/home/d0/Scripts/jamendo-rename-recursive",
+		"/home/d0/Scripts/jamendo-rename",
+		"/home/d0/Downloads/calendar.ics",
+		"/media/d0/Work/Unity/03.SphereRoom/03.SphereRoom/Assets/TextChange.cs",
+		"/media/d0/Work/Unity/Someting-Project/Something/Assets/Mover.cs",
+		"/media/d0/Work/Unity/code/fpscontrol/SmoothMouseLook.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Interacting.cs",
+		"/media/d0/Work/Online/netz.hfbk.net/templates/layout.html",
+		"/media/d0/Work/Online/netz.hfbk.net/templates/layout.html.org",
+		"/media/d0/Work/Unity/code/unity.hfbk.net/templates/layout.html",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Interactable.cs",
+		"/media/d0/Work/Unity/code/fpscontrol/Movement.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/PlayerUsable.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Player/SmoothMouseLook.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/PlayerInteraction.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Mover.cs",
+		"/media/d0/Work/Unity/03.SphereRoom/03.SphereRoom/Assets/Mover.cs",
+		"/media/d0/Work/Unity/03.SphereRoom/03.SphereRoom/Assets/ChaseMe.cs",
+		"/home/d0/Documents/bla.json",
+		"/media/d0/Work/Unity/02.URP/02.URP/Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs",
+		"/media/d0/Work/Unity/02.URP/02.URP/Temp/Compiled-Shader Graphs-New Shader Graph.shader",
+		"/media/d0/Work/Unity/00.Empty/00.Empty/Assets/ExampleScript.cs",
+		"/media/d0/Work/Unity/code/unity.hfbk.net/assets/static/fonts.css",
+		"/media/d0/Work/Unity/code/unity.hfbk.net/templates/macros/blog.html",
+		"/media/d0/Work/Unity/code/unity.hfbk.net/templates/blog.html",
+		"/home/d0/Scripts/fontface.py",
+		"/media/d0/Work/Unity/code/unity.hfbk.net/assets/static/anchor.js",
+		"/media/d0/Work/Unity/code/unity.hfbk.net/unity.hfbk.net.lektorproject",
+		"/home/d0/bbb/swaantje/db00608c311f9d55df034effbd34b4b50b681310-1592379427697/events.xml",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Player/FPSController.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Player/Movement.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Player/MouseLook.cs",
+		"/usr/share/pulseaudio/alsa-mixer/paths/analog-output.conf.common",
+		"/home/d0/Downloads/Realtek-ALC898/alsa-driver-RTv5.18/alsa/Makefile",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Controller.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/ColorFading.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Useable.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/NewSurfaceShader.shader",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Player/Interaction.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/Objects/IInteractable.cs",
+		"/media/d0/Work/Unity/01.Test/01.Test/Assets/FPSController.cs"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Running",
+			"sending",
+			"send_email",
+			"Unknow",
+			"send_email",
+			"lettre::smtp::error::Error",
+			"ConfigError",
+			"self.",
+			"add_mail",
+			"Mail",
+			"\\s\\d+?\\s\\d+?\\s\\d+?\\s\\d+?\\s\\d+?\\s\\d+?\\s\\d+?\\s\\d+?",
+			"^\\s",
+			"\\d\\.\\d\\d\\d ",
+			"underlined",
+			"InvalidLength",
+			"ManufacturerIDError",
+			"color",
+			"window_paragraphs",
+			"\\r\\n",
+			"n",
+			")\\r\\n",
+			"\\r\\n",
+			"window cont",
+			"window_paragraphs",
+			"{\n",
+			"product_card",
+			"Product",
+			"ProductCard",
+			"products",
+			"GetProducts",
+			"Home",
+			"+ ",
+			"+     ",
+			"+   ",
+			"+     ",
+			"+ ",
+			"link",
+			"+       ",
+			"+   ",
+			"+ ",
+			"+",
+			"\"",
+			"employeeNum",
+			"outb",
+			"ri:cn",
+			"ri",
+			"ri:cn",
+			"objectType",
+			"schema",
+			"outbound",
+			"proj",
+			"Bernd",
+			"inetOrgPerson",
+			"cred",
+			"email",
+			"00000000-8888-6666-0000-100000000001",
+			"c0c010c0",
+			"\"",
+			"window-{{ child.header.title|hyphenize }}",
+			"}}{{ ",
+			"window-{{ child.header.title|hyphenize }}{{",
+			"window-{{ child.header.title|hyphenize }}",
+			"opened",
+			"c0c010c0",
+			"name",
+			"bbe4ceac-a85c-11e7-a49f-0f5777d22906",
+			"7c57adc2-a857-11e7-83ac-0f212d965f5b",
+			"66245ea2-07d9-11e7-ac98-67b627683b1b",
+			"HR",
+			"66245ea2-07d9-11e7-ac98-67b627683b1b",
+			"66245ea2",
+			"66245ea2-07d9-11e7-ac98-67b627683b1b",
+			"bbe4ceac-a85c-11e7-a49f-0f5777d22906",
+			"7c57adc2-a857-11e7-83ac-0f212d965f5b",
+			"66245ea2-07d9-11e7-ac98-67b627683b1b",
+			"66245ea2",
+			"        <objectRef oid=\"03c3ceea-78e2-11e6-954d-dfdfa9ace0cf\" type=\"c:ResourceType\"/>\n",
+			"<objectRef oid=\"03c3ceea-78e2-11e6-954d-dfdfa9ace0cf\" type=\"c:ResourceType\"/>",
+			"ef2",
+			"ef",
+			"password",
+			"map",
+			"inbound",
+			"image",
+			"img",
+			"resizeable",
+			"columnicon",
+			"Parent",
+			"media",
+			"Enter a fucking number, mate\"",
+			"GERBER_FOLDER",
+			"\\n",
+			".*capacitors.*",
+			".*Capacitor.*",
+			"projection",
+			"$focus/",
+			"source",
+			"user",
+			"outbound",
+			"user",
+			"outbound",
+			"uname",
+			"guid",
+			"add_trackname",
+			"tracknames",
+			"for ",
+			"for",
+			"figure()",
+			"options",
+			"OPTIONS",
+			"OPT",
+			"opt",
+			"match_short",
+			"match_options",
+			"darkgrid",
+			"poster",
+			"-dark",
+			"-palette",
+			"AudioName",
+			"Audiodata",
+			"stdin",
+			"set_timestring",
+			"datestring",
+			"codec",
+			"probe",
+			"print",
+			"codec",
+			"circled"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			" ",
+			"",
+			", ",
+			"",
+			"\"$1\", ",
+			"",
+			"0x$1 ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Cargo.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"rainbow_checked": true,
+							"syntax": "Packages/TOML/TOML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".:",
+									"selector": "source.rust"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"rust-analyzer": "rust"
+							},
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/supervisor.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5458,
+								5458
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".:",
+									"selector": "source.rust"
+								}
+							],
+							"auto_name": "use crate::*;",
+							"color_scheme": "Packages/Theme - Cyanide/Monocyanide.tmTheme",
+							"git_gutter_is_enabled": true,
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"rust-analyzer": "rust"
+							},
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2968.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/config.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1399,
+								1399
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".:",
+									"selector": "source.rust"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"rust-analyzer": "rust"
+							},
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 806.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/error.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1796,
+								1796
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".:",
+									"selector": "source.rust"
+								}
+							],
+							"auto_name": "use std::error;",
+							"git_gutter_is_enabled": true,
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"rust-analyzer": "rust"
+							},
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.diagnostics":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "totmannschalter.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"reso",
+				"~/src/midpoint/testdaten/resource-personal.xml"
+			],
+			[
+				"err",
+				"bytemidi/src/error.rs"
+			],
+			[
+				"error",
+				"bytemidi/src/error.rs"
+			],
+			[
+				"ca",
+				"bytemidi/Cargo.toml"
+			],
+			[
+				"common",
+				"bytemidi/src/common.rs"
+			],
+			[
+				"",
+				"bytemidi/src/system_common_messages/mod.rs"
+			],
+			[
+				"mod.",
+				"bytemidi/src/system_common_messages/mod.rs"
+			],
+			[
+				"lib.",
+				"bytemidi/src/lib.rs"
+			],
+			[
+				"Cargo.toml",
+				"bytemidi/Cargo.toml"
+			],
+			[
+				"mid.rs",
+				"rimd/src/midi.rs"
+			],
+			[
+				"midi.rs",
+				"rimd/src/midi.rs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 300.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 702.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

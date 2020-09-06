@@ -1,0 +1,36 @@
+[package]
+name = "totmannschalter"
+version = "0.1.0"
+authors = ["David Huss <dh@atoav.com>"]
+description = "A service that mails you when urls cannot be reached anymore or return errors"
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/atoav/totmannschalter"
+repository = "https://github.com/atoav/totmannschalter"
+keywords = ["cli", "webserver", "availability", "service", "mail"]
+categories = ["command-line-utilities", "email"]
+
+[package.metadata.deb]
+section = ["Administration Utilities"]
+conf-files = ["totmannschalter/config.toml"]
+systemd-units = ["totmanschalter.service"]
+priority = "optional"
+assets = [
+    ["target/release/cargo-deb", "usr/bin/", "755"],
+    ["README.md", "usr/share/doc/cargo-deb/README", "644"],
+]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "3.0.0-beta.1"
+dialoguer = "0.6"
+console = "0.12"
+dirs = "3.0"
+toml = "0.5"
+serde = { version = "1.0", features = ["derive"] }
+clokwerk = "0.3"
+reqwest = { version = "0.10",  features = ["blocking"] }
+lettre = "0.10.0-alpha.1"
