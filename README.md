@@ -1,3 +1,4 @@
+![Rust](https://github.com/atoav/totmannschalter/workflows/Rust/badge.svg)
 # totmannschalter
 
 A simple Rust-based service that monitors multiple http(s) endpoints with different intervals and notifies administrators if the service goes down. Another notification is sent once it is back up again. _Totmannschalter_ is German for dead man's switch – a contraption which is meant to halt operations or send a notice in the _absence_ of a certain signal. In trains it is a switch that needs to be tapped periodically to make sure person operating the train is still awake and conscious.
