@@ -1466,7 +1466,7 @@ dependencies = [
 
 [[package]]
 name = "totmannschalter"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "clap",
  "clokwerk",
