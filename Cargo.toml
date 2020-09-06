@@ -1,6 +1,6 @@
 [package]
 name = "totmannschalter"
-version = "0.1.3"
+version = "0.1.4"
 authors = ["David Huss <dh@atoav.com>"]
 description = "A service that mails you when urls cannot be reached anymore or return errors"
 edition = "2018"
@@ -19,7 +19,7 @@ depends = "$auto, systemd"
 priority = "optional"
 assets = [
     ["target/release/totmannschalter", "usr/bin/", "755"],
-    ["README.md", "usr/share/doc/cargo-deb/README", "644"],
+    ["README.md", "usr/share/doc/totmannschalter/README", "644"],
     ["totmannschalter.service", "/etc/systemd/system/totmannschalter.service", "644"],
 ]
 systemd-units = { unit-name = "totmannschalter", enable = false }
