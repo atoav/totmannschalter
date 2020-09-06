@@ -102,7 +102,7 @@ impl Config {
                 let mut file = File::create(&config_path)?;
                 file.write_all(toml.as_bytes())?;
                 println!(" {}{}", style("[✓] Written default config to ").green(), &config_path.to_string_lossy());
-                Ok(config)
+                std::process::exit(0);
 
             } else {
                 std::process::exit(0);
@@ -125,6 +125,9 @@ impl Config {
 pub fn get_config_path() -> PathBuf {
     match dirs::config_dir() {
         Some(mut p) => {
+            if cfg!(target_os = "linux") && p.starts_with("/root/.config"){ 
+                p = PathBuf::from(p.to_string_lossy().replace("/root/.config", "/etc"));
+            }
             p.push(env!("CARGO_PKG_NAME"));
             p.push("config.toml");
             p
