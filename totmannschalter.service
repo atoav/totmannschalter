@@ -1,0 +1,10 @@
+[Unit]
+Description="A service that sends mails when urls cannot be reached anymore or return errors"
+
+[Service]
+ExecStart=/usr/bin/totmannschalter
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=network.target
